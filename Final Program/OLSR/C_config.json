@@ -1,0 +1,33 @@
+{
+  "C": {
+    "numofneighbors": 5,
+    "MRP": "",
+    "routeTable": [
+      {
+        "rname": "A",
+        "dist": 5,
+        "port": "1000"
+      },
+      {
+        "rname": "B",
+        "dist": 2,
+        "port": "1001"
+      },
+      {
+        "rname": "D",
+        "dist": 3,
+        "port": "1003"
+      },
+      {
+        "rname": "E",
+        "dist": 1,
+        "port": "1004"
+      },
+      {
+        "rname": "F",
+        "dist": 5,
+        "port": "1005"
+      }
+    ]
+  }
+}

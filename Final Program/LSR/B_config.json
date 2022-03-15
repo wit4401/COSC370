@@ -1,0 +1,22 @@
+{
+  "B": {
+    "numofneighbors": 3,
+    "routeTable": [
+      {
+        "rname": "A",
+        "dist": 2,
+        "port": "1000"
+      },
+      {
+        "rname": "C",
+        "dist": 2,
+        "port": "1002"
+      },
+      {
+        "rname": "D",
+        "dist": 2,
+        "port": "1003"
+      }
+    ]
+  }
+}
